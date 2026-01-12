@@ -1,0 +1,11 @@
+{
+    "name": "phaser-starter-as",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "http-server -c-1 -p 8080"
+    },
+    "devDependencies": {
+        "http-server": "^14.1.1"
+    }
+}
