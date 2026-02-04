@@ -27,3 +27,6 @@ Next steps
 
 - Change controls (W/S forward/back)
 - Add sprite, animations, or jumping
+
+
+windows 95 icons/assets: //https://artage.io/en/icon-packs/original-windows-95-icons icons
