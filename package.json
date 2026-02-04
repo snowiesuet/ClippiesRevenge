@@ -3,9 +3,7 @@
     "version": "0.0.0",
     "private": true,
     "scripts": {
+        "build": "echo 'Static site, no build needed'",
         "start": "http-server -c-1 -p 3000"
-    },
-    "devDependencies": {
-        "http-server": "^14.1.1"
     }
 }
