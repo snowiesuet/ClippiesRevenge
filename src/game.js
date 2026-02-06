@@ -3,6 +3,7 @@
 
 import IntroScene from './intro.js';
 import Level1Scene from './level1.js';
+import Level2Scene from './level2.js';
 
 const config = {
     type: Phaser.AUTO,
@@ -16,7 +17,7 @@ const config = {
             debug: false
         }
     },
-    scene: [IntroScene, Level1Scene], // Start with intro, then level 1
+    scene: [Level2Scene], // Start with intro, then level 1, then level 2
     scale: {
         mode: Phaser.Scale.RESIZE,
         autoCenter: Phaser.Scale.CENTER_BOTH

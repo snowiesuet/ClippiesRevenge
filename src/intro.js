@@ -84,7 +84,7 @@ class IntroScene extends Phaser.Scene {
 
             // Wait 5 seconds before loading the actual game screen
             this.time.delayedCall(5000, () => {
-                this.scene.start('Level1Scene');
+                this.scene.start('Level2Scene'); // TEMP: skip to Level 2 for testing
             });
         };
 
